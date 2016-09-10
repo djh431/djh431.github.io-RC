@@ -1,0 +1,135 @@
+#content {
+	text-align: center;
+	padding-top: 25%;
+	color: white;
+	text-shadow: 0px 4px 3px black, 0px 8px 13px gray, 0px 18px 23px white;
+}
+.background{
+	background: url(https://www.industryleadersmagazine.com/wp-content/uploads/Hospitality-industry.jpg);
+	background-size: cover;
+	background-position: center;
+}
+h1 {
+	font-family: 'Dancing Script', cursive;
+	font-size: 6em;
+}
+h3 {
+	font-family: 'Yellowtail', cursive;
+	font-size: 3em;
+}
+html {
+	height: 100%;
+}
+hr.style1 {
+	width: 400px;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+.navbar-default {
+	background-color: transparent;
+	border-color: transparent;
+	border-width: 5px;
+	border-top: transparent;
+}
+span {
+	color: white;
+	font-family: 'Dancing Script', cursive;
+}
+i {
+	color: white;
+}
+a {
+	color: white;
+}
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+	color: white;
+}
+.navbar-default .navbar-nav>li>a {
+	color: white;
+}
+
+.navbar-default .navbar-brand {
+	color: white;
+}
+.divide {
+	width: 1250px;
+}
+.glyphicon-leaf{
+	color: white;
+}
+.glyphicon-tree-conifer{
+	color: white;
+}
+.icons{
+	text-align: center;
+}
+.icons{
+	color: black:;
+}
+
+
+#animationTest{
+	text-align: center;
+	padding-top: 1%;
+	color: black;
+}
+h2{
+	font-family: 'Oswald', sans-serif;
+	color: white;
+}
+p{
+	font-family: 'Oswald', sans-serif;
+	color: white;
+}
+
+.style8 {
+	  color: #c5a47e;
+  margin: 0 auto 1em;
+  width: 11em;
+  font-family: 'Dancing Script', cursive;
+}
+
+.style8:before {
+	display: block;
+  width: 40%;
+  content: " ";
+  margin-top: 14px;
+  border: 1px solid #c5a47e;
+  float: left;
+}
+.style8:after {
+	display: block;
+  width: 40%;
+  content: " ";
+  margin-top: 14px;
+  border: 1px solid #c5a47e;
+  float: right;
+}
+
+.card img {
+  max-width: 100%;
+  padding: 10px;
+}
+body {
+	background-color: black;
+}
+.menu {
+	width: 25px;
+	height: 3px;
+	background-color: white;
+	margin: 6px 0;
+}
+.menubar {
+	margin-right: 0px;
+	padding-left: 975px;
+}
+button.toggle {
+	padding-top: 8px;
+	padding-left: 1000px;
+	margin: 0;
+	background-color: transparent;
+	border-color: transparent;
+}
+.navbar-menubar {
+	padding- bottom: 10px;
+}
